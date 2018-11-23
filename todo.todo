@@ -1,0 +1,13 @@
+☐ Wysłać kod do github'a
+☐ rozpocząć pracę nad apką mobilną
+    ☐ Sprawdzić, czy moja wersja mobilnej działa na moim telefonie
+    ☐ spróbować zrobić w react-native-web prosto sortowaną listę
+        ☐ znaleźć bibliotekę która fajnie posortuje i pozwoli zmieniać miejsce na liście
+    ☐ dodać dodwanie daty
+    ☐ dodać powtarzanie zadań
+☐ dodać szybką edycję jak w todos
+☐ dodać podzadania z opcją as subtask to selectable from seleciton list?
+    Niech to będzie rozwiązane przez aktualną pozycje, bo to chyba najbardziej intuicyjne
+☐ subtask to current node button
+☐ task to current node button
+☐ dodać next action filtr

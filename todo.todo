@@ -1,4 +1,9 @@
-☐ Wysłać kod do github'a
+☐ dodać react sortable tree
+    ☐ W najnowszej wersji na bezie overlyTodo
+    ☐ Niech się doda tak jak w overlyTodo
+    ☐ spróbować utrwalanie go włączyć do firebase zapisu.
+    ☐ wywalić react-native-simple-store
+    ☐ https://github.com/rt2zz/redux-persist spróbować do prostego zapisywania
 ☐ rozpocząć pracę nad apką mobilną
     ☐ Sprawdzić, czy moja wersja mobilnej działa na moim telefonie
     ☐ spróbować zrobić w react-native-web prosto sortowaną listę

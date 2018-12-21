@@ -2,7 +2,6 @@
   "name": "life-organizer-web",
   "version": "0.6.0",
   "description": "Todo overview with React, Redux, and Firebase",
-  // "homepage": "https://todo-react-redux.firebaseapp.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/senpl/life-organizer-web.git"
@@ -33,10 +32,11 @@
     "history": "^4.7.2",
     "immutable": "^4.0.0-rc.12",
     "prop-types": "^15.6.2",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
+    "react": "16.6.3",
+    "react-dom": "16.6.3",
     "react-native": "^0.57.8",
     "react-native-simple-store": "^1.3.0",
+    "react-native-store": "^0.4.1",
     "react-redux": "^6.0.0",
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",

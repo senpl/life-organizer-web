@@ -1,15 +1,15 @@
 {
-  "name": "todo-react-redux",
+  "name": "life-organizer-web",
   "version": "0.6.0",
-  "description": "Todo app with Create React App, React Redux, and Firebase",
-  "homepage": "https://todo-react-redux.firebaseapp.com",
+  "description": "Todo overview with React, Redux, and Firebase",
+  // "homepage": "https://todo-react-redux.firebaseapp.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/r-park/todo-react-redux.git"
+    "url": "https://github.com/senpl/life-organizer-web.git"
   },
   "author": {
-    "name": "Richard Park",
-    "email": "objectiv@gmail.com"
+    "name": "Michal Urbanek",
+    "email": "urbanekmike@gmail.com"
   },
   "license": "MIT",
   "private": true,
@@ -50,7 +50,7 @@
   "devDependencies": {
     "cross-env": "^5.2.0",
     "enzyme": "^3.8.0",
-    "firebase-tools": "^6.1.2",
+    "firebase-tools": "^6.2.0",
     "minx": "^0.4.14",
     "node-sass-chokidar": "1.3.4",
     "npm-run-all": "^4.1.5",

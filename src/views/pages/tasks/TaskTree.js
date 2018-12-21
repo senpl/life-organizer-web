@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {AsyncStorage, Card, CardItem, Body, Alert, Button, AppRegistry, StyleSheet, Text, TextInput, View, TouchableHighlight} from 'react-native';
 import SortableTree, { addNodeUnderParent, removeNodeAtPath, changeNodeAtPath } from 'react-sortable-tree';
 // import App from './App';
-import store from 'react-native-simple-store';
+// import store from 'react-native-simple-store';
 import 'react-sortable-tree/style.css'; // This only needs to be imported once in your app
 
 export default class TaskTree extends Component {

@@ -3,7 +3,10 @@ import {AsyncStorage, Card, CardItem, Body, Alert, Button, AppRegistry, StyleShe
 import SortableTree, { addNodeUnderParent, removeNodeAtPath, changeNodeAtPath } from 'react-sortable-tree';
 // import App from './App';
 // import store from 'react-native-simple-store';
+import configureStore from '../../../store';
 import 'react-sortable-tree/style.css'; // This only needs to be imported once in your app
+
+const store = configureStore();
 
 export default class TaskTree extends Component {
   constructor(props) {

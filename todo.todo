@@ -1,5 +1,9 @@
-☐ wywalić ract native-store
-
+✔ wywalić ract native-store @done (December 29th 2018, 13:04)
+☐ sprobowac dodac naiwnie do stor'a ktory jest w aplikacji
+    ☐ uruchamianie opisać dokladnie
+    ☐ Spróbować, czy to zadziala
+☐ uwierzytelniac szybko do git'a
+☐ add sinon when it will still be usable on windows
 ☐ dodać react sortable tree
     Startowanie po dodaniu react-native znacząco spowolniło.
     ☐ W najnowszej wersji na bezie overlyTodo

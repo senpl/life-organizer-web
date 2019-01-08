@@ -32,7 +32,7 @@
     "history": "^4.7.2",
     "immutable": "^4.0.0-rc.12",
     "prop-types": "^15.6.2",
-    "react": "sta16.6.3",
+    "react": "16.6.3",
     "react-dom": "16.6.3",
     "react-native": "^0.57.8",
     "react-native-store": "^0.4.1",
